@@ -1,0 +1,58 @@
+---
+- name: OpenHack 11
+  date: 17-02-2015 at 6pm
+  location: coworks
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/24471-openhack-11
+- name: OpenHack 10
+  date: Jan 13 2015 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/23318-openhack-10
+  attendees: 7
+- name: OpenHack 9
+  date: December 9 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/calendar/events/22144-openhack-9
+  attendees: 7
+- name: OpenHack 8
+  date: November 11 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/21434-openhack-8
+  attendees: 7
+- name: OpenHack 7
+  date: October 15 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/20366-openhack-7
+  attendees: 14
+- name: OpenHack 6
+  date: September 9 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/18882-openhack-6
+  attendees: 9
+- name: OpenHack 5
+  date: August 12 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/18881-openhack-5
+  attendees: 11
+- name: OpenHack 4
+  date: July 8 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/17706-openhack-4
+  attendees: 15
+- name: OpenHack 3
+  date: Jun 10 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/17551-openhack-3
+  attendees: 9
+- name: OpenHack 2.0
+  date: May 13 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/16542-openhack-2-0
+  attendees: 7
+- name: OpenHack 1.0
+  date: April 8 2014 at 6pm
+  location: ttg
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/15908-openhack-1-0
+  attendees: 8
+
+# - May 13<sup>th</sup>, 2014 at The Tech Garden (7 attendees)
+# - April 8<sup>th</sup>, 2014 at The Tech Garden (8 attendees)

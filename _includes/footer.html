@@ -1,3 +1,19 @@
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+           <div class="well text-center">
+             <p>
+             Thanks to the fine folks at <a href='http://terakeet.com'>Terakeet</a> for
+             sponsoring OpenHack <br/>
+             <a href="http://terakeet.com">
+               <img src="{{ site.base_url }}/img/terakeet.png" style="margin: 0 auto;"/>
+             </a>
+             </p>
+           </div>
+        </div>
+    </div>
+</div>
+<hr>
 <!-- Footer -->
 <footer>
     <div class="container">
@@ -38,6 +54,16 @@
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if site.newsletter_url %}
+                    <li>
+                        <a href="{{ site.newsletter_url }}">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
                     </li>
