@@ -4,19 +4,19 @@ description: A Monthly Developer Meetup in Downtown Syracuse
 header-img: "img/openhack-october-14.jpg"
 ---
 
-OpenHack Syracuse is a monthly meetup with a simple purpose:  
+OpenHack Syracuse is a casual social coding meetup with a simple purpose:  
 **Code together, on anything.**
 
-We host a meetup where local developers and designers of _any_ skill level can 
-get together to write code or push pixels. We'll provide you with good food, 
-good people, and creative energy.
+We welcome local developers and designers of _all_ skill levels, interests, ages
+genders, _you-name-it_ to get together to write code or push pixels. We'll
+provide good food, good people, and creative energy.
 
 Here's how OpenHack works:
 
-* You can hack on anything! Any language, framework, public/open-source, 
+* You can hack on anything! Any language, framework, public/open-source,
 personal projects, client work... anything!
 * You don’t have to have an idea to hack on, you can come join someone else
-* We'll kick things off with a quick round of introductions, to say who you are, 
+* We'll kick things off with a quick round of introductions, to say who you are,
 what you’re working on, and if you’d like help with your idea
 * Food and drinks will be provided
 
@@ -24,8 +24,8 @@ Feel free to join us - bring a laptop, a project, and a friend!
 
 {% include next_meetup.html %}
 
-You can follow us on twitter [@OpenHackSYR](http://twitter.com/OpenHackSYR), 
-sign up for [our mailing list](http://tinyletter.com/openhacksyr), and check 
- our [NextPlex page](http://nextplex.com/syracuse-ny/groups/openhack-syracuse) 
+You can follow us on twitter [@OpenHackSYR](http://twitter.com/OpenHackSYR),
+sign up for [our mailing list](http://tinyletter.com/openhacksyr), and check
+ our [NextPlex page](http://nextplex.com/syracuse-ny/groups/openhack-syracuse)
  to stay up to date!
 

@@ -32,7 +32,6 @@ Starting in February 2015, meetups will be held downtown at:
 Syracuse, NY 13202   
 
 Directions:
-
 - From Jefferson St, enter the building under the Century Plaza sign ([Google Street
 View](https://www.google.com/maps/@43.047046,-76.150508,3a,75y,14.14h,85.32t/data=!3m4!1e1!3m2!1sDwIUBIpB-7hgKMcn89DYzA!2e0))   
 - Take the elevator to the second floor
@@ -41,6 +40,11 @@ View](https://www.google.com/maps/@43.047046,-76.150508,3a,75y,14.14h,85.32t/dat
 
 Yes! Food &amp; drink are provided by our sponsor
 [Terakeet](http://terakeet.com)
+
+## How do I contact the group?
+
+- OpenHack Syracuse ([@OpenHackSYR](https://twitter.com/openhacksyr))
+- Mike Vormwald ([@vormwald](https://twitter.com/vormwald))
 
 ## What's the deal with this website?
 
