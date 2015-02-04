@@ -20,7 +20,7 @@ details each month)
 Meetings start at 6, and we generally wrap up around 9pm. If there’s interest, 
 we will head to a nearby coffee shop or bar for more discussion.
 
-## But, where do you meet?
+## But, where do we meet?
 <div class='pull-right'>
   <img src='{{ site.base_url }}/img/small-coworks-map.jpg'/>
 </div>
@@ -43,5 +43,5 @@ This site is built using [Jekyll](http://jekyllrb.com), based on the
 [Clean Blog theme](http://ironsummitmedia.github.io/startbootstrap-clean-blog-jekyll/).
 It is hosted on [github pages](http://pages.github.com). 
 
-This site and all its contents are Open Source, and the source code can be found 
+This site and all its contents are open source, and the source code can be found 
 [here](http://github.com/OpenHackSyr/openhacksyr.github.io).
