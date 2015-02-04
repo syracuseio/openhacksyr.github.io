@@ -1,8 +1,7 @@
 # Site settings
 title: OpenHack Syracuse
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "OpenHack Syracuse is a local meetup for developers, designer, and creators of all shapes, sizes and abilities"
 baseurl: ""
 url: "http://openhacksyr.com"
 twitter_username: OpenHackSYR
