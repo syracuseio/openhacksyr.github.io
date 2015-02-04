@@ -37,6 +37,11 @@ Directions:
 View](https://www.google.com/maps/@43.047046,-76.150508,3a,75y,14.14h,85.32t/data=!3m4!1e1!3m2!1sDwIUBIpB-7hgKMcn89DYzA!2e0))   
 - Take the elevator to the second floor
 
+## Will there be food?
+
+Yes! Food &amp; drink are provided by our sponsor
+[Terakeet](http://terakeet.com)
+
 ## What's the deal with this website?
 
 This site is built using [Jekyll](http://jekyllrb.com), based on the
