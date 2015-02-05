@@ -31,7 +31,7 @@ Starting in February 2015, meetups will be held downtown at:
 201 East Jefferson St, 2nd Floor   
 Syracuse, NY 13202   
 
-Directions:
+
 - From Jefferson St, enter the building under the Century Plaza sign ([Google Street
 View](https://www.google.com/maps/@43.047046,-76.150508,3a,75y,14.14h,85.32t/data=!3m4!1e1!3m2!1sDwIUBIpB-7hgKMcn89DYzA!2e0))   
 - Take the elevator to the second floor
