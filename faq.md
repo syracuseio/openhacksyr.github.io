@@ -36,6 +36,17 @@ Syracuse, NY 13202
 View](https://www.google.com/maps/@43.047046,-76.150508,3a,75y,14.14h,85.32t/data=!3m4!1e1!3m2!1sDwIUBIpB-7hgKMcn89DYzA!2e0))   
 - Take the elevator to the second floor
 
+## What is the meeting format?
+**Each** meeting starts out with introductions. We go around the room, and
+answer the following questions:
+
+- Who you are
+- What you do
+- What you're working on (if you have a project)
+- If you'd like any help, or would like to offer help
+
+Then, we get to work.
+
 ## Will there be food?
 
 Yes! Food &amp; drink are provided by our sponsor
