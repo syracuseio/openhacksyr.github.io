@@ -1,6 +1,7 @@
 ---
 layout: page
-description: "A Clean Blog Theme by Start Bootstrap"
+title: blog
+description: News for OpenHackers
 ---
 
 {% for post in paginator.posts %}
@@ -15,6 +16,7 @@ description: "A Clean Blog Theme by Start Bootstrap"
         {% endif %}
     </a>
     <p class="post-meta">Posted by {{ post.author }} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    {{ post.excerpt }}
 </div>
 <hr>
 {% endfor %}
