@@ -18,11 +18,20 @@
                 <li>
                     <a href="{{ site.baseurl }}/">Home</a>
                 </li>
-                {% for page in site.pages %}{% if page.title %}
+                {% for page in site.pages %}
+                {% if page.title %}
+                {% if page.title != 'Chat local' %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
-                {% endif %}{% endfor %}
+                {% endif %}
+                {% endif %}
+                {% endfor %}
+                <li>
+                  <a href="{{ 'slack.html' | prepend: site.baseurl }}">
+                      Chat <img src='/img/slack-flat.png' height='20px' width='20px'/>
+                    </a>
+                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
