@@ -1,7 +1,7 @@
 ---
 layout: page
 description: A Monthly Developer Meetup in Downtown Syracuse
-header-img: "img/openhack-october-14.jpg"
+header-img: "img/openhack-august-15.jpg"
 ---
 
 OpenHack Syracuse is a casual social coding meetup with a simple purpose:  
