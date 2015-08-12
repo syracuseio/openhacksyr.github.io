@@ -1,8 +1,13 @@
 ---
+- name: OpenHack August
+  date: 11-08-2015 at 6pm
+  location: coworks
+  rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/30521-openhack-august
 - name: OpenHack July
   date: 14-07-2015 at 6pm
   location: coworks
   rsvp_link: http://nextplex.com/syracuse-ny/calendar/events/29083-openhack-july
+  attendees: 11
 - name: OpenHack June
   date: 09-06-2015 at 6pm
   location: coworks
