@@ -1,0 +1,16 @@
+---
+-
+- name: Ryan Gaus
+  img: http://rgaus.net/img/me.png
+  desc: Web Developer. I specialize in backend development. Teenager. Work for Lono.
+  social:
+    twitter: rgausnet
+    website: http://rgaus.net
+    email: rsg1egoman@gmail.com
+- name: John Doe
+  img: http://placehold.it/160x160
+  desc: Lorem ipsum dolar set amet
+  social:
+    twitter: example
+    website: http://example.com
+    email: example@example.com
