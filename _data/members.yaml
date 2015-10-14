@@ -1,4 +1,7 @@
 ---
+# to get a gravatar for a user:
+# just run:
+# echo "http://www.gravatar.com/avatar/$(echo "rsg1egoman@gmail.com" | md5sum | sed 's/  -//')"
 -
 - name: Ryan Gaus
   img: http://rgaus.net/img/me.png
