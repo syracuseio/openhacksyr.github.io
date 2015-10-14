@@ -1,7 +1,16 @@
 ---
 # to get a gravatar for a user:
-# just run:
-# echo "http://www.gravatar.com/avatar/$(echo "rsg1egoman@gmail.com" | md5sum | sed 's/  -//')"
+# https://en.gravatar.com/site/check/
+#
+# Follow this format:
+# - name: John Doe
+#   img: http://gravatar.com/avatar/<gravatar id>
+#   desc: Lorem ipsum dolar set amet
+#   social:
+#     twitter: example
+#     website: http://example.com
+#     email: example@example.com
+
 -
 - name: Ryan Gaus
   img: http://rgaus.net/img/me.png
@@ -10,10 +19,3 @@
     twitter: rgausnet
     website: http://rgaus.net
     email: rsg1egoman@gmail.com
-- name: John Doe
-  img: http://placehold.it/160x160
-  desc: Lorem ipsum dolar set amet
-  social:
-    twitter: example
-    website: http://example.com
-    email: example@example.com

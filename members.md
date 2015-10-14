@@ -17,6 +17,5 @@ description: Regular Attendees of OpenHack Syracuse
 {% if member.social.email %}
 <i class="fa fa-envelope"></i> [{{member.social.email}}](//twitter.com/{{member.social.email}})
 {% endif %}
-{{member.desc}}
-<nr/>
+{{member.desc | truncate: 100 }}
 {% endfor %}
