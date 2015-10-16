@@ -3,7 +3,7 @@ layout: page
 title: Members
 description: Regular Attendees of OpenHack Syracuse
 ---
-{% for member in site.data.members offset: 1 %}
+{% for member in site.data.members %}
 ## {{member.name}}
 
 <img src="{{member.img}}" style="float: left; height: 160px; margin-right: 20px;" />
