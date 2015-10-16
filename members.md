@@ -12,10 +12,10 @@ description: Regular Attendees of OpenHack Syracuse
 <i class="fa fa-twitter"></i> [{{member.social.twitter}}](//twitter.com/{{member.social.twitter}})
 {% endif %}
 {% if member.social.website %}
-<i class="fa fa-globe"></i> [{{member.social.website}}](//twitter.com/{{member.social.website}})
+<i class="fa fa-globe"></i> [{{member.social.website}}]({{member.social.website}})
 {% endif %}
 {% if member.social.email %}
-<i class="fa fa-envelope"></i> [{{member.social.email}}](//twitter.com/{{member.social.email}})
+<i class="fa fa-envelope"></i> [{{member.social.email}}](mailto:{{member.social.email}})
 {% endif %}
 {{member.desc | truncate: 100 }}
 {% endfor %}
