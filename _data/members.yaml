@@ -9,6 +9,8 @@
 #   social:
 #     twitter: example
 #     website: http://example.com
+#     facebook: peterbsmith
+#     linkedin: peterbsmith2
 #     email: example@example.com
 
 - name: Ryan Gaus
@@ -18,3 +20,12 @@
     twitter: rgausnet
     website: http://rgaus.net
     email: rsg1egoman@gmail.com
+
+- name: Peter B Smith
+  img: http://peterbsmith.net/img/profile.png
+  desc: Web Developer and Project Manager.
+  social:
+    twitter: peterbsmith
+    github: peterbsmith2
+    website: http://peterbsmith.net
+    email: peterbutlersmith@gmail.com
