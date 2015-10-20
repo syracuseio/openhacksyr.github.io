@@ -1,14 +1,14 @@
 ---
 layout: page
 description: Join the OpenHack Syracuse community on Slack!
-title: Chat local
+title: Chat Local
 header-img: 'img/slack-action.jpg'
 ---
 
-Come hang out with local Syracuse developers in the OpenHack Syracuse slack
+Come hang out with local Syracuse developers in the OpenHack Syracuse Slack
 group.
 
-This is a place to discuss the local development scene, seek help, share advice, 
+This is a place to discuss the local development scene, seek help, share advice,
 and discuss everything related to being a Software / Web person in Syracuse NY.
 
 ### Get invited!
