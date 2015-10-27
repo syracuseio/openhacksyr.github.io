@@ -14,7 +14,7 @@
 #     email: example@example.com
 
 - name: Ryan Gaus
-  img: http://rgaus.net/img/me.png
+  img: http://www.gravatar.com/avatar/4ff6d18f938065040399b88e79a997fd
   desc: Web Developer. I specialize in backend development. Teenager. Work for Lono.
   social:
     twitter: rgausnet
@@ -22,7 +22,7 @@
     email: rsg1egoman@gmail.com
 
 - name: Peter B Smith
-  img: http://peterbsmith.net/img/profile.png
+  img: http://www.gravatar.com/avatar/be9d1fc23f7d31a9a5ebbc8c9cc9dfb1
   desc: Web Developer and Project Manager.
   social:
     twitter: peterbsmith
