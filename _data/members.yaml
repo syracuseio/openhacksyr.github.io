@@ -29,3 +29,12 @@
     github: peterbsmith2
     website: http://peterbsmith.net
     email: peterbutlersmith@gmail.com
+
+- name: Thomas Hart
+  img: http://gravatar.com/avatar/859c6af6e9c8d02190240ed4b875aed7?d=identicon
+  desc: Rails developer and hackathon enthusiast. Family man. Lover of loud noises.
+  social:
+    twitter: myrridin
+    github: myrridin
+    website: http://thomashart.me
+    email: tom@thomashart.me
