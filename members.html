@@ -1,0 +1,49 @@
+---
+layout: page
+title: Members
+description: Regular Attendees of OpenHack Syracuse
+---
+<!-- Main Content -->
+
+<div class="row">
+    {% for member in site.data.members %}
+    <div class="col-lg-3 col-lg-offset-1 col-md-5 col-md-offset-1">
+      <h4 style="text-align: center;">{{member.name}}</h4>
+      <img src="{{member.img}}" style="float: center; height: 160px; margin: 0 auto; border-radius: 10%;" />
+
+      <div style="text-align: center;">
+          {% if member.social.github %}
+          <a href="https://www.github.com/{{member.social.github}}"><i class="fa fa-github"></i></a>
+          {% endif %}
+          {% if member.social.twitter %}
+          <a href="https://www.twitter.com/{{member.social.twitter}}"><i class="fa fa-twitter"></i></a>
+          {% endif %}
+          {% if member.social.facebook %}
+          <a href="https://www.facebook.com/{{member.social.facebook}}"><i class="fa fa-facebook"></i></a>
+          {% endif %}
+          {% if member.social.linkedin %}
+          <a href="https://www.linkedin.com/in/{{member.social.linkedin}}"><i class="fa fa-linkedin"></i></a>
+          {% endif %}
+          {% if member.social.website %}
+          <a href="{{member.social.website}}"><i class="fa fa-globe"></i></a>
+          {% endif %}
+          {% if member.social.email %}
+          <a href="mailto:{{member.social.email}}"><i class="fa fa-envelope"></i></a>
+          {% endif %}
+          <div class="row" style="text-align: center; font-size: .8em;">
+
+              {{member.desc | truncate: 100 }}
+
+          </div>
+      </div>
+
+    </div>
+
+    {% capture indexMod %} {{ forloop.index | modulo: 3 }} {% endcapture %}
+    {% if indexMod contains "0" %}
+      <div class="clearfix visible-md-block visible-lg-block"></div>
+    {% endif %}
+
+    {% endfor %}
+
+</div>
