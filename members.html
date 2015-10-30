@@ -9,7 +9,7 @@ description: Regular Attendees of OpenHack Syracuse
     {% for member in site.data.members %}
     <div class="col-lg-3 col-lg-offset-1 col-md-5 col-md-offset-1">
       <h4 style="text-align: center;">{{member.name}}</h4>
-      <img src="{{member.img}}?s=160" style="float: center; height: 160px; margin: 0 auto; border-radius: 10%;" />
+      <img class="members-img" src="{{member.img}}?s=160"/>
 
       <div style="text-align: center;">
           {% if member.social.github %}
@@ -30,7 +30,7 @@ description: Regular Attendees of OpenHack Syracuse
           {% if member.social.email %}
           <a href="mailto:{{member.social.email}}"><i class="fa fa-envelope"></i></a>
           {% endif %}
-          <div class="row" style="text-align: center; font-size: .8em;">
+          <div class="row" class="members-desc">
 
               {{member.desc | truncate: 100 }}
 
