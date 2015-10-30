@@ -6912,6 +6912,16 @@ form .row:first-child .floating-label-form-group {
   background-color: #404040;
   cursor: not-allowed;
 }
+.members-img {
+  float: center;
+  height: 160px;
+  margin: 0 auto;
+  border-radius: 10%;
+}
+.members-desc {
+  text-align: center;
+  font-size: .8em;
+}
 ::-moz-selection {
   color: white;
   text-shadow: none;
