@@ -15,9 +15,10 @@
 
 - name: Ryan Gaus
   img: http://www.gravatar.com/avatar/4ff6d18f938065040399b88e79a997fd
-  desc: Web Developer. I specialize in backend development. Teenager. Work for Lono.
+  desc: A teenage web developer. I specialize in backend development in Node.js, and I work for Lono.
   social:
     twitter: rgausnet
+    github: 1egoman
     website: http://rgaus.net
     email: rsg1egoman@gmail.com
 
