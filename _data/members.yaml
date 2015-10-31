@@ -39,3 +39,13 @@
     github: myrridin
     website: http://thomashart.me
     email: tom@thomashart.me
+
+- name: Mike Vormwald
+  img: http://gravatar.com/avatar/8fd894f9ef58348e5a9c4a4df9d48484
+  desc: OpenHack organizer and Ruby on Rails developer.
+  social:
+    twitter: vormwald
+    github: vormwald
+    website: http://mikevormwald.com
+    email: mvormwald@gmail.com
+
