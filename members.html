@@ -3,8 +3,7 @@ layout: page
 title: Members
 description: Regular Attendees of OpenHack Syracuse
 ---
-<!-- Main Content -->
-
+<!-- main content -->
 <div class="row">
     {% assign members = site.data.members | sort: 'name' %}
     {% for member in members %}
@@ -42,5 +41,23 @@ description: Regular Attendees of OpenHack Syracuse
       <div class="clearfix visible-md-block visible-lg-block"></div>
     {% endif %}
     {% endfor %}
-
 </div>
+
+<hr>
+
+<div class="panel panel-info">
+  <div class="panel-heading">
+    <h3 class="panel-title">All attendees are welcome to join the members page!</h3>
+  </div>
+  <div class="panel-body">
+    <p>Join our members page by taking the following steps:</p>
+    <ol>
+      <li>Attend an OpenHack!</li>
+      <li>Fork the <a href="https://github.com/openhacksyr/openhacksyr.github.io/">website repository on github</a></li>
+      <li>Add your info to the <a href="https://github.com/openhacksyr/openhacksyr.github.io/blob/master/_data/members.yaml">member file</a></li>
+      <li>Open a Pull Request on Github (See <a href="https://help.github.com/articles/using-pull-requests/">instructions here</a>)</li>
+    </ol>
+    <p>If any of this seems daunting, please bring it up during the next OpenHack, we'd be happy to help.</p>
+  </div>
+</div>
+
