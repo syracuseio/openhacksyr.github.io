@@ -10,7 +10,7 @@ newsletter_url: "http://tinyletter.com/openhacksyr"
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 permalink: "/blog/:year/:month/:title/"
 paginate: 5
 paginate_path: "blog/page:num/"
@@ -18,6 +18,6 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 
 jekyll-mentions: https://twitter.com
 
-# gems:
-#   - jekyll-sitemap
-#   - jekyll-mentions
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
