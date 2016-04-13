@@ -21,6 +21,6 @@ Well now you can, by joining our Slack group! (Haven't heard of slack? It's a
 - To ask programming questions
 - To share something you've learned
 
-Check [our slack page](/slack.html) for details on how to join in.
+Check [our slack page](/slack) for details on how to join in.
 
 Hope to see you in slack!
