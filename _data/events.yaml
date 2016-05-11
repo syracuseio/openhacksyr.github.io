@@ -1,8 +1,13 @@
 ---
+- name: OpenHack June
+  date: 14-6-2016 at 6pm
+  location: coworks
+  rsvp_link: http://nextplex.com/syracuse-ny/calendar/events/40326-openhack-june
 - name: OpenHack May
   date: 10-5-2016 at 6pm
   location: coworks
   rsvp_link: http://nextplex.com/syracuse-ny/calendar/events/39341-openhack-may
+  attendees: 18
 - name: OpenHack April
   date: 12-4-2016 at 6pm
   location: coworks
