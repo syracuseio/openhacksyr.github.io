@@ -8,10 +8,10 @@ description: Regular Attendees of OpenHack Syracuse
     {% assign members = site.data.members | sort: 'name' %}
     {% for member in members %}
     <div class="col-lg-3 col-lg-offset-1 col-md-5 col-md-offset-1">
-      <h4 style="text-align: center;">{{ member.name }}</h4>
+      <h4 class="text-center">{{ member.name }}</h4>
       <img class="members-img" src="{{member.img }}?s=160"/>
 
-      <div style="text-align: center;">
+      <div class="text-center">
           {% if member.social.github %}
           <a href="https://www.github.com/{{ member.social.github }}"><i class="fa fa-github"></i></a>
           {% endif %}
