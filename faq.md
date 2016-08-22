@@ -33,7 +33,7 @@ Syracuse, NY 13202
 
 
 - From Jefferson St, enter the building under the Century Plaza sign ([Google Street
-View](https://www.google.com/maps/@43.047046,-76.150508,3a,75y,14.14h,85.32t/data=!3m4!1e1!3m2!1sDwIUBIpB-7hgKMcn89DYzA!2e0))   
+View](https://www.google.com/maps/@43.0470467,-76.1505448,3a,75y,44.84h,74.92t/data=!3m6!1e1!3m4!1sCM6fQAord-wjakpEAWCD8Q!2e0!7i13312!8i6656))   
 - Take the elevator to the second floor
 
 ## What is the meeting format?
