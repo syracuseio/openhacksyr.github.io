@@ -13,6 +13,15 @@
 #     linkedin: example
 #     email: example@example.com
 
+- name: Brian Chabot
+  img: https://s.gravatar.com/avatar/5abd6d179345a61cb40ae4e52134287b?s=80
+  desc: Full Stack Microsoft Developer and Project Manager who loves open source.
+  social:
+    twitter: chabotbrian
+    github: RookieDDZ
+    website: n/a
+    email: chabotb1@gmail.com
+
 - name: Ryan Gaus
   img: http://www.gravatar.com/avatar/4ff6d18f938065040399b88e79a997fd
   desc: A teenage web developer. I specialize in backend development in Node.js, and I work for Lono.
@@ -48,4 +57,3 @@
     github: vormwald
     website: http://mikevormwald.com
     email: mvormwald@gmail.com
-
