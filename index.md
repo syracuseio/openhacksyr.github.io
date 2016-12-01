@@ -25,7 +25,7 @@ Feel free to join us - bring a laptop, a project, and a friend!
 {% include next_meetup.html %}
 
 You can follow us on twitter [@OpenHackSYR](http://twitter.com/OpenHackSYR),
-sign up for [our mailing list](http://tinyletter.com/openhacksyr), and check
- our [NextPlex page](http://nextplex.com/syracuse-ny/groups/openhack-syracuse)
- to stay up to date!
+sign up for [our mailing list](http://tinyletter.com/openhacksyr), and keep an
+eye on the [Syracuse Coworks Meetup](https://www.meetup.com/SyracuseCoWorks/)
+ page to stay up to date!
 
