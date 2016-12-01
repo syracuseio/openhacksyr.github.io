@@ -1,8 +1,18 @@
 ---
+- name: OpenHack December
+  date: 13-12-2016 at 6pm
+  location: coworks
+  rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/235623845/
+- name: OpenHack November
+  date: 15-11-2016 at 6pm
+  location: coworks
+  rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/235358965/
+  attendees: 18
 - name: OpenHack October
   date: 11-10-2016 at 6pm
   location: coworks
   rsvp_link: http://nextplex.com/syracuse-ny/calendar/events/44586-openhack-october
+  attendees: 17
 - name: OpenHack September
   date: 13-9-2016 at 6pm
   location: coworks
