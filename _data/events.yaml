@@ -1,8 +1,13 @@
 ---
+- name: OpenHack February
+  date: 14-2-2017 at 6pm
+  location: coworks
+  rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/236883840/
 - name: OpenHack January
   date: 10-1-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/236392914/
+  attendees: 18
 - name: OpenHack December
   date: 13-12-2016 at 6pm
   location: coworks
