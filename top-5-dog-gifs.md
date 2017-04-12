@@ -20,7 +20,7 @@ As selected by @vormwald
 ![](http://i.imgur.com/WUJrmEt.gif)
 
 ## Number 4
-http://images1.tickld.com/live/articles/a_238_20150721150526.gif
+![](http://images1.tickld.com/live/articles/a_238_20150721150526.gif)
 
 ## Number 5
 ![](http://i.imgur.com/BoyZGtL.gif)
