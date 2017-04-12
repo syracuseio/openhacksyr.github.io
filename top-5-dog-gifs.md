@@ -9,7 +9,7 @@ As selected by @vormwald
 
 ## Number 1
 
-![](https://vineyardclubw.blob.core.windows.net/images/dog_mixologist.gif)
+![](http://blogfiles.wfmu.org/KF/2013/09/25/dog_mixologist.gif)
 
 ## Number 2
 
