@@ -50,7 +50,7 @@ Then, we get to work.
 ## Will there be food?
 
 Yes! Food &amp; drink are provided by our sponsor
-[Terakeet](http://terakeet.com)
+[Upstate Interactive](http://upstate.agency)
 
 ## How do I contact the group?
 
