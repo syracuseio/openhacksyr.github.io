@@ -1,9 +1,14 @@
 ---
+- name: OpenHack August
+  date: 8-8-2017 at 6pm
+  location: coworks
+  rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/tchbfmywlblb/
+  attendees:
 - name: OpenHack July
   date: 18-7-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/240898642/
-  attendees:
+  attendees: 26
 - name: OpenHack June
   date: 13-6-2017 at 6pm
   location: coworks
