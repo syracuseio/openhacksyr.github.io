@@ -7,5 +7,5 @@ header-img: 'img/slack-action.jpg'
 
 Come hang out with local Syracuse developers in the OpenHack Syracuse Slack.
 
-You can find us in the `#openhack-meetup` group on the local 
+You can find us in the `#openhack` group on the local
 [Syracuse.io](http://syracuse.io) Slack group.
