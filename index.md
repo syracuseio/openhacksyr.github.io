@@ -24,8 +24,7 @@ Feel free to join us - bring a laptop, a project, and a friend!
 
 {% include next_meetup.html %}
 
-You can follow us on twitter [@OpenHackSYR](http://twitter.com/OpenHackSYR),
-sign up for [our mailing list](http://tinyletter.com/openhacksyr), and keep an
-eye on the [Syracuse Coworks Meetup](https://www.meetup.com/SyracuseCoWorks/)
+You can follow us on twitter [@OpenHackSYR](http://twitter.com/OpenHackSYR),and keep an
+eye on the [Syracuse Developer Meetup](https://www.meetup.com/Syracuse-Software-Development-Meetup/)
  page to stay up to date!
 

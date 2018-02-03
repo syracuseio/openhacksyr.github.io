@@ -6,7 +6,6 @@ baseurl: ""
 url: "http://openhacksyr.com"
 twitter_username: OpenHackSYR
 github_username:  OpenHackSYR
-newsletter_url: "http://tinyletter.com/openhacksyr"
 
 # Build settings
 markdown: kramdown

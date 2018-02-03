@@ -14,9 +14,6 @@ OpenHack Syracuse is our local fork of the
 ## When do we meet?
 We typically meet on the second Tuesday of every month.
 
-(Sign up for our [newsletter](http://tinyletter.com/openhacksyr) to get
-details each month)
-
 Meetings start at 6, and we generally wrap up around 9pm. If there’s interest,
 we will head to a nearby coffee shop or bar for more discussion.
 
