@@ -1,4 +1,19 @@
 ---
+- name: OpenHack February
+  date: 13-2-2017 at 6pm
+  location: coworks
+  rsvp_link: 
+  attendees: 
+  - name: OpenHack January
+  date: 9-1-2017 at 6pm
+  location: coworks
+  rsvp_link: 
+  attendees: Cancelled due to weather, 0
+- name: OpenHack December
+  date: 12-12-2017 at 6pm
+  location: coworks
+  rsvp_link: 
+  attendees: Cancelled due to weather, 0
 - name: OpenHack November
   date: 14-11-2017 at 6pm
   location: coworks
@@ -43,7 +58,7 @@
   date: 14-3-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/238797796/
-  attendees: Canceled due to weather, 0
+  attendees: Cancelled due to weather, 0
 - name: OpenHack February
   date: 14-2-2017 at 6pm
   location: coworks
