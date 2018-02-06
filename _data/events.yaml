@@ -2,38 +2,33 @@
 - name: OpenHack February
   date: 13-2-2017 at 6pm
   location: coworks
-  rsvp_link: 
-  attendees: 
-  - name: OpenHack January
+  rsvp_link: https://www.meetup.com/Syracuse-Software-Development-Meetup/events/247328039/
+- name: OpenHack January
   date: 9-1-2017 at 6pm
   location: coworks
-  rsvp_link: 
+  rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/tchbfmyxcbmb/
   attendees: Cancelled due to weather, 0
 - name: OpenHack December
   date: 12-12-2017 at 6pm
   location: coworks
-  rsvp_link: 
+  rsvp_link:
   attendees: Cancelled due to weather, 0
 - name: OpenHack November
   date: 14-11-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/244705879/
-  attendees:
 - name: OpenHack October
   date: 10-10-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/243317808/
-  attendees:
 - name: OpenHack October
   date: 12-9-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/243023670/
-  attendees:
 - name: OpenHack August
   date: 8-8-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/tchbfmywlblb/
-  attendees:
 - name: OpenHack July
   date: 18-7-2017 at 6pm
   location: coworks
@@ -43,12 +38,10 @@
   date: 13-6-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/239549455/
-  attendees:
 - name: OpenHack May
   date: 9-5-2017 at 6pm
   location: coworks
   rsvp_link: https://www.meetup.com/SyracuseCoWorks/events/239549455/
-  attendees:
 - name: OpenHack April
   date: 11-4-2017 at 6pm
   location: coworks
@@ -234,6 +227,3 @@
   location: ttg
   rsvp_link: http://nextplex.com/syracuse-ny/groups/openhack-syracuse/events/15908-openhack-1-0
   attendees: 8
-
-# - May 13<sup>th</sup>, 2014 at The Tech Garden (7 attendees)
-# - April 8<sup>th</sup>, 2014 at The Tech Garden (8 attendees)
