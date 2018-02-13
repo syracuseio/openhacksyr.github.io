@@ -10,5 +10,5 @@ header-img: "img/coworks-bg.jpg"
 
 ### Previous meetups
 {% for event in site.data.events offset: 1 %}
-- {{ event.date | date: "%a, %B %d, %Y at %-I:%M%p" }} at {% if event.location == 'ttg' %}The Tech Garden{% elsif event.location == 'coworks' %}Syracuse Coworks{% endif %} {% if event.rsvp_link %} <a href='{{ event.rsvp_link }}'>RSVP Info</a> {% else %} (canceled) {% endif %}
+- {{ event.date | date: "%a, %B %d, %Y at %-I:%M%p" }} at {% if event.location == 'ttg' %}The Tech Garden{% else %}{{ event.location }}{% endif %} {% if event.rsvp_link %} <a href='{{ event.rsvp_link }}'>RSVP Info</a> {% else %} (canceled) {% endif %}
 {% endfor %}
