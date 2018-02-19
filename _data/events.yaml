@@ -1,4 +1,8 @@
 ---
+- name: OpenHack March
+  rsvp_link: https://www.meetup.com/Syracuse-Software-Development-Meetup/events/gdqxgpyxfbrb/
+  date: 2018-03-13 at  6:00pm
+  location: Syracuse Coworks
 - name: OpenHack February
   date: 13-2-2017 at 6pm
   location: coworks
@@ -11,7 +15,7 @@
 - name: OpenHack December
   date: 12-12-2017 at 6pm
   location: coworks
-  rsvp_link:
+  rsvp_link: 
   attendees: Cancelled due to weather, 0
 - name: OpenHack November
   date: 14-11-2017 at 6pm
